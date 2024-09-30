@@ -17,18 +17,18 @@
     <PackageTags>String,IP,IPAddress</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Version>1.0.1</Version>
-    <!--<PackageIcon>DTAT03.png</PackageIcon>-->
+    <PackageIcon>Mst.png</PackageIcon>
     <PackageIconUrl />
     <PackageReleaseNotes>Change IpAddress Class</PackageReleaseNotes>
   </PropertyGroup>
 
-  <!--  
+  
     <ItemGroup>  
-       <None Update="DTAT03.png">  
+       <None Update="Mst.png">  
          <Pack>True</Pack>  
          <PackagePath>\</PackagePath>  
        </None>  
     </ItemGroup>  
-   -->
+   
 
 </Project>
