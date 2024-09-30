@@ -12,11 +12,11 @@
     <Copyright>2024</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://mehransattary.ir/</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/</RepositoryUrl>
+    <RepositoryUrl>https://github.com/mehransattari/Mst</RepositoryUrl>
     <Description>Mehran Sattari Framework</Description>
     <PackageTags>String,IP,IPAddress</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <!--<PackageIcon>DTAT03.png</PackageIcon>-->
     <PackageIconUrl />
     <PackageReleaseNotes>Change IpAddress Class</PackageReleaseNotes>
